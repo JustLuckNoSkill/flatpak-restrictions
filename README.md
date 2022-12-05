@@ -1,5 +1,6 @@
 # flatpak-restrictions
-Flatpak permissions I use to improve security.
+
+Flatpak permissions I use to improve security. Override files are located in `~/.local/share/flatpak/overrides`.
 
 These overrides assume you are using Wayland. If you are using X11, **do not** revoke these permissions:
   share=ipc
