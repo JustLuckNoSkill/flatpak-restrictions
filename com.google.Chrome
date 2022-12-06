@@ -1,0 +1,6 @@
+[Context]
+shared=!ipc
+sockets=!cups;!pcsc;!x11;!host-etc
+
+[Session Bus Policy]
+org.freedesktop.secrets=none
