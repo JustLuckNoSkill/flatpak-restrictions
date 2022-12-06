@@ -1,0 +1,8 @@
+
+[Context]
+shared=!ipc
+sockets=!fallback-x11
+filesystems=!xdg-music;!xdg-pictures;!xdg-videos
+
+[Session Bus Policy]
+org.freedesktop.secrets=none
