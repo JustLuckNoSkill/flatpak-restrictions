@@ -2,3 +2,6 @@
 shared=!ipc
 sockets=!cups;!pcsc;!x11
 filesystems=!xdg-desktop;!xdg-documents;!xdg-videos;!xdg-music;!host-etc
+
+[Session Bus Policy]
+org.freedesktop.secrets=none
