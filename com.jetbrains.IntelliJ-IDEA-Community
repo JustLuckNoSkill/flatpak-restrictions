@@ -1,0 +1,7 @@
+[Context]
+shared=!ipc
+sockets=!ssh-auth
+devices=!all
+
+[Session Bus Policy]
+org.freedesktop.secrets=none
