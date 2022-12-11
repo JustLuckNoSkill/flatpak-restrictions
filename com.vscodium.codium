@@ -1,0 +1,4 @@
+[Context]
+shared=!ipc
+sockets=!ssh-auth;!pulseaudio
+devices=!all
